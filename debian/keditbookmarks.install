@@ -1,0 +1,6 @@
+usr/bin/kbookmarkmerger
+usr/bin/keditbookmarks
+usr/lib/*/libkbookmarkmodel_private.so.*
+usr/share/applications/org.kde.keditbookmarks.desktop
+usr/share/config.kcfg/keditbookmarks.kcfg
+usr/share/kxmlgui5/keditbookmarks/
