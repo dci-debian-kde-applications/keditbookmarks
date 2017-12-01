@@ -17,6 +17,7 @@ keditbookmarks (17.08.3-0r1) UNRELEASED; urgency=medium
     libkf5archive-dev, libkf5crash-dev, libkf5dbusaddons-dev,
     libkf5kcmutils-dev, libkf5kdelibs4support-dev, libkf5khtml-dev,
     libqt5x11extras5-dev, libx11-dev, pkg-config, and qtwebengine5-dev.
+  * Do not ship the development symlinks.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 31 Oct 2017 18:00:34 +0100
 
