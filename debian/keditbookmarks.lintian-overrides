@@ -1,2 +1,4 @@
+# private library
 keditbookmarks: package-name-doesnt-match-sonames libkbookmarkmodel-private6
-keditbookmarks: non-dev-pkg-with-shlib-symlink usr/lib/*/libkbookmarkmodel_private.so.5.* usr/lib/x86_64-linux-gnu/libkbookmarkmodel_private.so
+# private library
+keditbookmarks: no-symbols-control-file
