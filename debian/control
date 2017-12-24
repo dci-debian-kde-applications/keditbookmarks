@@ -30,7 +30,10 @@ Section: utils
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Conflicts: kde-baseapps-bin
-Breaks: ${kde-l10n:all}, konqueror (<< 4:17.08~)
-Replaces: kde-baseapps-bin, ${kde-l10n:all}, konqueror (<< 4:17.08~)
+Breaks: konqueror (<< 4:16.08.3-2~),
+        ${kde-l10n:all},
+Replaces: kde-baseapps-bin,
+          konqueror (<< 4:16.08.3-2~),
+          ${kde-l10n:all},
 Description: Bookmark Editor utility
  KEditBookMarks can edit your bookmark file.
