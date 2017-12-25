@@ -1,4 +1,6 @@
-keditbookmarks (17.08.3-0r1) UNRELEASED; urgency=medium
+keditbookmarks (17.08.3-1) experimental; urgency=medium
+
+  * Team upload.
 
   [ Maximiliano Curia ]
   * New upstream release (17.08.1)
@@ -21,7 +23,7 @@ keditbookmarks (17.08.3-0r1) UNRELEASED; urgency=medium
   * Update lintian overrides.
   * Update copyright.
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 31 Oct 2017 18:00:34 +0100
+ -- Pino Toscano <pino@debian.org>  Mon, 25 Dec 2017 11:29:41 +0100
 
 keditbookmarks (17.08.1-0neon) xenial; urgency=medium
 
