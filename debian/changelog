@@ -1,3 +1,8 @@
+keditbookmarks (17.08.3-2) UNRELEASED; urgency=medium
+
+
+ -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 31 Dec 2017 01:12:33 +0100
+
 keditbookmarks (17.08.3-1) experimental; urgency=medium
 
   * Team upload.
