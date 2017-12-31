@@ -29,10 +29,10 @@ Package: keditbookmarks
 Section: utils
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Conflicts: kde-baseapps-bin
-Breaks: konqueror (<< 4:16.08.3-2~),
+Breaks: kde-baseapps-bin (<< 4:16.08.3-3~),
+        konqueror (<< 4:16.08.3-2~),
         ${kde-l10n:all},
-Replaces: kde-baseapps-bin,
+Replaces: kde-baseapps-bin (<< 4:16.08.3-3~),
           konqueror (<< 4:16.08.3-2~),
           ${kde-l10n:all},
 Description: Bookmark Editor utility
