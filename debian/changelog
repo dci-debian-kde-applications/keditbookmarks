@@ -4,6 +4,8 @@ keditbookmarks (17.08.3-2) UNRELEASED; urgency=medium
   * Bump Standards-Version to 4.1.3, no changes required.
   * Update the kde-baseapps-bin breaks/replaces, for the removal of
     keditbookmarks in src:kde-baseapps.
+  * Adjust l10npkgs_firstversion_ok to the version where kde-l10n will
+    drop translations.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 31 Dec 2017 01:12:33 +0100
 
